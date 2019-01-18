@@ -1,0 +1,5 @@
+#Day 1:
+
+1. Started the 100 days challenge.
+2. Submitted Talking Fingers idea in SIH 2019.
+3. Learned about SVM (Support vector Machines) from udacity by attending 10 lectures of lesson 4.
